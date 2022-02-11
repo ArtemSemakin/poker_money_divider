@@ -68,4 +68,3 @@ private fun navigateToNewScreen(navController: NavHostController, route: String)
         restoreState = true
     }
 }
-
